@@ -1,3 +1,86 @@
-body{
-  font-family:'Times New Roman', Times, serif ;  
+/* layout */
+:root {
+  --sidebar-width: 16rem;
+  --container-width: 36rem;
+  --font-body: sans-serif;
+}
+body {
+  font-family: var(--font-body);
+  font-size: 1.2rem;
+}
+img {
+  max-width: 100%;
+  height: auto;
+}
+h1,
+h2,
+h3 {
+  line-height: 1;
+}
+h1 {
+  font-size: 3.6rem;
+}
+h2 {
+  font-size: 2.8rem;
+}
+h3 {
+  font-size: 1.6rem;
+}
+article {
+  max-width: 36rem;
+  margin-inline: auto;
+}
+.brand {
+  color: white;
+  background-color: black;
+  padding: 0.4rem;
+}
+.navbar {
+  padding-inline: 1.4rem;
+}
+.navbar a {
+  font-size: 1.6rem;
+  text-decoration: none;
+}
+.list {
+  list-style: square;
+}
+.region {
+  margin-top: 2.6rem;
+  margin-bottom: 2.6rem;
+}
+.container {
+  max-width: var(--container-width);
+  margin-left: auto;
+  margin-right: auto;
+  padding-inline: 1.4rem;
+}
+
+.flow > * + * {
+  margin-top: var(--flow-space, 1em);
+}
+
+/* Från den fantastiska resursen 
+ * https://every-layout.dev/layouts/sidebar/
+ */
+
+.with-sidebar {
+  display: flex;
+  flex-wrap: wrap;
+   flex-direction: row-reverse; 
+  gap: 1rem;
+}
+
+.sidebar {
+  /* ↓ The width when the sidebar _is_ a sidebar */
+  flex-basis: var(--sidebar-width);
+  flex-grow: 1;
+}
+
+.not-sidebar {
+  /* ↓ Grow from nothing */
+  flex-basis: 0;
+  flex-grow: 999;
+  /* ↓ Wrap when the elements are of equal width */
+  min-inline-size: 50%;
 }
