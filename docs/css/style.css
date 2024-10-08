@@ -1,4 +1,10 @@
 /* layout */
+body{
+  background-color: black;
+  font-family: 'Times New Roman', Times, serif ;
+  color: white;
+}
+
 :root {
   --sidebar-width: 16rem;
   --container-width: 36rem;
@@ -83,4 +89,12 @@ article {
   flex-grow: 999;
   /* ↓ Wrap when the elements are of equal width */
   min-inline-size: 50%;
+}
+
+body{
+  border: 40px solid navy   
+}
+
+img{
+  max-width: 200%;
 }
