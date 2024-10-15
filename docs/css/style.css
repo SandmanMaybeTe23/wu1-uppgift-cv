@@ -7,7 +7,7 @@ body{
 
 :root {
   --sidebar-width: 16rem;
-  --container-width: 36rem;
+  --container-width: 42rem;
   --font-body: sans-serif;
 }
 body {
@@ -109,7 +109,7 @@ body{
 
 h1{
   text-align: center;
-  font-size: 10rem;
+  font-size: 8rem;
   padding: 0px;
 }
 h2{
