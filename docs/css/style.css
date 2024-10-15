@@ -81,6 +81,7 @@ article {
   /* ↓ The width when the sidebar _is_ a sidebar */
   flex-basis: var(--sidebar-width);
   flex-grow: 1;
+  background-color: rgba(66, 66, 66, 0.432);
 }
 
 .not-sidebar {
@@ -108,11 +109,20 @@ body{
 
 h1{
   text-align: center;
-  font-size: 5rem;
+  font-size: 10rem;
+  padding: 0px;
 }
 h2{
   color: grey;
+  padding: 50px;
 }
 h3{
   font-size: xx-large;
+  padding: 20px;
+ 
 }
+
+p{
+padding-left: 20px;
+}
+

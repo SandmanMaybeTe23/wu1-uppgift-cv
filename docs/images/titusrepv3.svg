@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 128 128">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #2626b5;
+      }
+
+      .cls-2 {
+        fill: #1b1bdb;
+      }
+
+      .cls-3 {
+        fill: red;
+      }
+
+      .cls-4 {
+        fill: #3939ff;
+      }
+    </style>
+  </defs>
+  <!-- Generator: Adobe Illustrator 28.6.0, SVG Export Plug-In . SVG Version: 1.2.0 Build 709)  -->
+  <g>
+    <g id="Lager_1">
+      <rect x="0" y="-5.19" width="128" height="135.19"/>
+      <polyline class="cls-2" points="20.37 62.72 96.14 62.72 75.74 128.1 41.04 128.1 20.37 62.72"/>
+      <path class="cls-4" d="M87.49,62.64l-29.23,27.33-3.15-2.94c.76-.27,1.43-.65,1.98-1.17l-22.15-20.41c-.5.49-.87,1.06-1.11,1.69l-4.9-4.58h.17c.06-33.02,13.08-59.77,29.14-59.77s29.11,26.78,29.14,59.86h.09Z"/>
+      <polyline class="cls-4" points="82.7 105.49 85.13 55.24 100.06 64.7"/>
+      <rect x="40.77" y="93.46" width="11.66" height="5.83" transform="translate(-51.41 53.31) rotate(-40.48)"/>
+      <rect x="42.25" y="103.32" width="11.66" height="5.83" transform="translate(-57.46 56.63) rotate(-40.48)"/>
+      <rect x="62.52" y="104.13" width="11.66" height="5.83" transform="translate(52.96 233.11) rotate(-140.48)"/>
+      <rect x="64.35" y="93.78" width="11.66" height="5.83" transform="translate(63.52 215.98) rotate(-140.84)"/>
+      <path class="cls-4" d="M57.09,85.85c-.55.52-1.22.9-1.98,1.17h-.03l-21.24-19.89c.23-.63.61-1.2,1.11-1.69l22.15,20.41Z"/>
+      <path class="cls-3" d="M55.08,87.02c-3.9,1.31-10.14-.82-15.24-5.5-5.22-4.79-7.58-10.73-6-14.38l21.24,19.89Z"/>
+      <path class="cls-3" d="M61.61,86.85c3.9,1.31,10.14-.82,15.24-5.5,5.22-4.79,7.58-10.73,6-14.38l-21.24,19.89Z"/>
+      <polyline class="cls-4" points="33.67 104.13 30.01 53.77 16 64.76"/>
+      <rect class="cls-4" x="38.31" y="22.36" width="40.33" height="40.33" transform="translate(116.85 85.21) rotate(-179.85)"/>
+      <circle class="cls-4" cx="58.48" cy="42.53" r="10.08"/>
+      <rect class="cls-4" x="55.93" y="51.36" width="6.3" height="5.04" transform="translate(118.02 107.91) rotate(-179.85)"/>
+      <text/>
+      <rect class="cls-1" x="52.4" y="-.07" width="10.86" height="14.48"/>
+      <rect x="53.3" y="3.55" width="9.05" height="9.05"/>
+    </g>
+  </g>
+</svg>
