@@ -14,36 +14,8 @@ Sedan kan du skriva i loggform om vad du har arbetat med från planering och hur
 Skriv även sådant som du måste arbeta med nästa pass.
 
 
+## Log för hela arbetet 
 
 
-            <h1>Titus</h1>
-            <p><br></p>
-            <p>captain of the ultramarine</p>
-            <p><br></p>
-            <h3>Contacts</h3>
-            <p>Phone:  0244 601 5104 1148</p>
-            <P>Email: :captintitus.hotmail.com</P>
-            <P><br></P>
-            <h3>Former Experiences </h3>
-            <p><br></p>
-            <p>- Aspirant in the 40,384</p>
-            <p>- Neophyte in the 40,390</p>
-            <p>- Battle brother in the 40,400</p>
-            <p>- Sargent 40,500</p>
-            <p>-Lieutenant in the 41,001 and 40,550</p>
-            <p>-Captain in the 40,999</p>
-            <p><br></p>
-            <h3>Education</h3>
-            <p><br></p>
-            <p>Space marine implants gives me a high education in all fields </p>
-            <p><br></p>
-            <h3>Skills</h3>
-            <p><br></p>
-            <p>-Experienced Leadership <br>
-        -combat experience from different invigermets <br> 
-       - psyeker resistens <br>
-        </p>
-            <h3>Languages</h3>
-            <p><br>English/Gothic <br></p>
-            <h3>Reformers </h3>
-        <p><br> -Merneus Calgar of the ultramarines </p>
+auto correct(google drive)
+Under mitt arbete har jag arbetat med olika element som p och h1-h3 som har gått bra därför dom är väldigt enkla för mig att förstå för mig är P är väldigt bekant med print från ecma scrip och python. Men H1 till 3 är ett bättre sätt att göra rubrik till en webbsida istället för att göra P för att göra en rubrik. Mina svårigheter kommer med css jag förstår att body betyder det du ser och header betyder vad du inte kan se men klasserna är var jag kan behöva hjälp med till framtiden och vad jag behöver träna på. Därför i mitt projekt har jag använt Jens code för att göra sidebar som han mest använder css och klasser för att göra sidebar som jag inte exakt förstår hur de fungerar. Det jag förstår är att det jag beskriver der på är en variabel som ger ett P till exempel en ny färg som blå men jag har inte fått mitt huvud runt det än men vill gärna till framtiden. Resten av CSS typ som att göra en border går bra, i alla fall det som jag har förut använt går bra och inte många svårigheter. Det jag har är nöjd med är att jag har lärt mig tex padding och hur man konstruerar css och html från olika mappar som var ett helvete som jag spenderade mesta hel timme på som jag har lärt mig nu så kommer jag inte få samma problem hoppas jag. Men också lärt mig hur man här in vector bilder på sidan fungerar som var väldigt enkelt bara gör Illustrerat filerna till svg och använder samma teknik som en IMG fil men det är svg. Med hjälp av Henrik gjorde jag fin tuning på min webbsida så allt såg professionellt ut.Men till de sluter delen skrive jag dena text därför jag glönde att skrive log varge dag
