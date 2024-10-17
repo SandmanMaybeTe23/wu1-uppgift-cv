@@ -93,7 +93,7 @@ article {
 }
 
 body{
-  border: 40px solid navy   
+  border: 40px solid rgb(41, 41, 146)   
 }
 
 img{
@@ -123,6 +123,42 @@ h3{
 }
 
 p{
-padding-left: 20px;
+  padding-left: 20px;
 }
 
+
+
+
+li{
+  color: black;
+    border: 40px white;
+  
+}
+
+a:hover{
+  background-color: black;
+  color: rgb(190, 190, 190);
+  border-color: white;
+} 
+
+li {
+  list-style: none;
+}
+
+a{
+  color: rgb(164, 164, 164);
+  border: 20px;
+  border-color: white;
+  text-decoration: none;
+  margin: 2px;
+  font-size: 2rem;
+  padding: 10px;
+}
+
+img{
+  margin-top: 10px;
+}
+
+a{
+ margin-bottom: 40px;
+}
