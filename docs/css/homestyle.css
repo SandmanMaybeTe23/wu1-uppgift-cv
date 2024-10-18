@@ -1,0 +1,93 @@
+body{
+    background-color: black;
+        font-family: 'Times New Roman', Times, serif ;
+        color: white;
+        
+}
+h1{
+    text-align: center;
+    font-size: 3rem;
+    background-color: rgb(84, 84, 186);
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+
+
+
+.with-sidebar {
+    display: flex;
+    flex-wrap: wrap;
+     flex-direction: row-reverse; 
+    gap: 1rem;
+  }
+  
+  .sidebar {
+    /* ↓ The width when the sidebar _is_ a sidebar */
+    flex-basis: var(--sidebar-width);
+    flex-grow: 1;
+    background-color: rgba(66, 66, 66, 0.432);
+  }
+  
+  .not-sidebar {
+    /* ↓ Grow from nothing */
+    flex-basis: 0;
+    flex-grow: 999;
+    /* ↓ Wrap when the elements are of equal width */
+    min-inline-size: 50%;
+  }
+  body{
+    margin-top: 0%;
+    margin-left: 0%;
+    padding-left: 0%;
+    font-size:xx-large  ;;
+  }
+  article {
+    max-width: 36rem;
+    margin-inline: auto;
+  }
+
+  :root {
+    --sidebar-width: 16rem;
+    --container-width: 42rem;
+    --font-body: sans-serif;
+  }
+  body {
+    font-family: var(--font-body);
+    font-size: 1.2rem;
+  }
+  
+  li{
+    color: black;
+      border: 40px white;
+    
+  }
+  
+  a:hover{
+    background-color: black;
+    color: rgb(190, 190, 190);
+    border-color: white;
+  } 
+  
+  li {
+    list-style: none;
+  }
+  
+  a{
+    color: rgb(164, 164, 164);
+    border: 20px;
+    border-color: white;
+    text-decoration: none;
+    margin: 2px;
+    font-size: 2rem;
+    padding: 10px;
+  }
+  
+  img{
+    margin-top: 10px;
+  }
+  
+  a{
+   margin-bottom: 40px;
+  }
+  
+  
